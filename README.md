@@ -75,9 +75,6 @@ A modern, AI-powered caption generator built with React, TypeScript, and Vite th
 5. Copy, edit, or save your favorite captions
 6. Share directly to your chosen platform
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/priyan5huu/ai_caption_generator/issues).
 
 ## 📝 License
 
@@ -85,8 +82,7 @@ This project is open-source and available under the MIT License.
 
 ## 👨‍💻 Authors
 
-**Priyanshu Pandey**
-- GitHub: [@priyan5huu](https://github.com/priyan5huu)
+
 
 **Vandana Mishra**
 - GitHub: [@vandana621](https://github.com/vandana621)
