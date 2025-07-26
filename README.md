@@ -4,6 +4,9 @@ A modern, AI-powered caption generator built with React, TypeScript, and Vite th
 
 🌐 **Live Demo**: [AI Caption Generator](https://ai-caption-generator-mu.vercel.app/)
 
+screenshot : <img width="1920" height="1080" alt="Screenshot 2025-07-26 222846" src="https://github.com/user-attachments/assets/c0251ae8-45c2-4afa-9d7b-fc18af1c364e" />
+
+
 ## ✨ Features
 
 - 📱 Support for multiple social media platforms:
