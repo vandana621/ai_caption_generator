@@ -83,10 +83,13 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 This project is open-source and available under the MIT License.
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
 **Priyanshu Pandey**
 - GitHub: [@priyan5huu](https://github.com/priyan5huu)
+
+**Vandana Mishra**
+- GitHub: [@vandana621](https://github.com/vandana621)
 
 ---
 
